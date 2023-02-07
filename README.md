@@ -9,7 +9,7 @@ Where, $A^{res}$ is the dimensionless residual Helmholtz free energy, $\rho$ is 
 
 $$ \alpha_{vdw} = \mathcal{C}_{Mie} \left[ \left(\frac{1}{\lambda_a-3} \right) - \left(\frac{1}{\lambda_r-3} \right) \right], \qquad \mathcal{C}_{Mie} = \frac{\lambda_r}{\lambda_r- \lambda_a} \left( \frac{\lambda_r}{\lambda_r}\right)^{\frac{\lambda_a}{\lambda_r - \lambda_a}} $$
 
-This model has been trained using thermophysical properties of the Mie fluid that include first-order derivative properties such as the compressibility factor ($Z$) and the internal energy ($U$), and second-order derivative properties such as the isobaric heat capacity ($C_V$), the thermal pressure coefficient ($\gamma_V$), the isothermal compressibility ($\rho\kappa_T$), thermal expansion coefficient ($\alpha_P$), adibatic index ($\gamma$) and the Joule-Thomson coefficient ($\mu_{JT}$).
+This model has been trained using thermophysical properties of the Mie fluid that include first-order derivative properties such as the compressibility factor ( $Z$ ) and the internal energy ( $U$ ), and second-order derivative properties such as the isobaric heat capacity ( $C_V$ ), the thermal pressure coefficient ( $\gamma_V$ ), the isothermal compressibility ( $\rho\kappa_T$ ), thermal expansion coefficient ( $\alpha_P$ ), adiabatic index ( $\gamma$ ) and the Joule-Thomson coefficient ( $\mu_{JT}$ ).
 
 
 ## Use of the FE-ANN EoS
