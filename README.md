@@ -22,13 +22,12 @@ The following examples of use of the FE-ANN EoS are provided in the [examples](.
 2. Computing fluid phase equilibria with the FE-ANN EoS.
 
 
-
 ## Prerequisites
 
 - numpy
 - scipy
 - matplotlib
-- tensorflow (tested version > v2.5.0)
+- tensorflow (tested on version 2.4.1)
 
 ## License information
 
