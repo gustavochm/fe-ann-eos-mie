@@ -1,6 +1,6 @@
-# Supplementary information: Thermodynamically-consistent machine-learning based Equation of State for the Mie fluid
+# Supplementary information: "Development of thermodynamically-consistent machine-learning Equations of State: Application to the Mie fluid"
 
-This repository is part of the supplementary information of the article *"Thermodynamically-consistent machine-learning based Equation of State for the Mie fluid" (Submitted to Journal of Physical Chemistry B)* by Gustavo Chaparro and Erich A. Müller. This article introduces an artificial neural network (ANN) based equation of state for the Mie fluid **, FE-ANN EoS**. 
+This repository is part of the supplementary information of the article *Development of thermodynamically-consistent machine-learning Equations of State: Application to the Mie fluid" (Submitted to The Journal of Chemical Physics)* by Gustavo Chaparro and Erich A. Müller. This article introduces an artificial neural network (ANN) based equation of state for the Mie fluid **, FE-ANN EoS**. 
 
 The Mie potential is described as follows:
 
