@@ -1,6 +1,6 @@
 # Supplementary information: "Development of thermodynamically-consistent machine-learning Equations of State: Application to the Mie fluid"
 
-This repository is part of the supplementary information of the article *Development of thermodynamically-consistent machine-learning Equations of State: Application to the Mie fluid" (Submitted to The Journal of Chemical Physics)* by Gustavo Chaparro and Erich A. Müller. This article introduces an artificial neural network (ANN) based equation of state for the Mie fluid **, FE-ANN EoS**. 
+This repository is part of the supplementary information of the article *["Development of thermodynamically-consistent machine-learning Equations of State: Application to the Mie fluid"](https://doi.org/10.1063/5.0146634)* by Gustavo Chaparro and Erich A. Müller. This article introduces an artificial neural network (ANN) based equation of state for the Mie fluid **, FE-ANN EoS**. 
 
 The Mie potential is described as follows:
 
@@ -11,7 +11,7 @@ Here, $\epsilon$ represents the potential well depth, $\sigma$ is the effective 
 The FE-ANN EoS models the Helmholtz free energy of the Mie fluid as follows:
 
 
-$$ A^{res} = ANN(\alpha_{vdw}, \rho, 1/T) - ANN(\alpha_{vdw}, \rho=0.0, 1/T) $$
+$$ A^{res} = ANN(\alpha_{vdw}, \rho, 1/T) - ANN(\alpha_{vdw}, \rho=0, 1/T) $$
 
 Where, $A^{res}$ is the dimensionless residual Helmholtz free energy, $\rho$ is the dimensionless density, $T$ is the dimensionless temperature and $\alpha_{vdw}$ is defined a the Mie fluid as follows:
 
