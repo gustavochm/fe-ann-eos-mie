@@ -4,7 +4,7 @@ This repository is part of the supplementary information of the article *["Devel
 
 The Mie potential is described as follows:
 
-$$ U^{Mie} = \mathcal{C}_{Mie} \epsilon \left[ \left(\frac{\sigma}{r}\right)^{\lambda_r} -  \left(\frac{\sigma}{r}\right)^{\lambda_a} \right], \quad \mathcal{C}_{Mie} = \frac{\lambda_r}{\lambda_r- \lambda_a} \left( \frac{\lambda_r}{\lambda_a}\right)^{\frac{\lambda_a}{\lambda_r - \lambda_a}} $$ 
+$$ U^{Mie} = C_{Mie} \epsilon \left[ \left(\frac{\sigma}{r}\right)^{\lambda_r} -  \left(\frac{\sigma}{r}\right)^{\lambda_a} \right], \quad C_{Mie} = \frac{\lambda_r}{\lambda_r- \lambda_a} \left( \frac{\lambda_r}{\lambda_a}\right)^{\frac{\lambda_a}{\lambda_r - \lambda_a}} $$ 
 
 Here, $\epsilon$ represents the potential well depth, $\sigma$ is the effective monomer diameter, $r$ is the centre-to-centre distance between two Mie monomers, and $\lambda_r$ and $\lambda_a$ are the repulsive and attractive exponent, respectively.
 
